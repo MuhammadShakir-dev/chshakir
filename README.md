@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chshakir
 - 👀 I’m interested in developing full stack websites
-- 🌱 I’m currently learning Software Engineering 
+- 🌱 I’m currently Studying Software Engineering 
 - 💞️ I’m looking to collaborate with all peoples who have problems to solve
 - 📫 Reach me through my email  chaudhryshakir67@gmail.com 
 
