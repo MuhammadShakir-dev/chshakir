@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chshakir" alt="chshakir" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/chshakir" target="blank"><img src="https://img.shields.io/twitter/follow/@chshakir?logo=twitter&style=for-the-badge" alt="@chshakir" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@ChShakir_05" target="blank"><img src="https://img.shields.io/twitter/follow/@chshakir?logo=twitter&style=for-the-badge" alt="@chshakir" /></a> </p>
 
 - 🔭 I’m currently working on **LMS (LEARNING MANAGEMENT SYSTEM)**
 
