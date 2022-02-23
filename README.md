@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@chshakir_05" target="blank"><img src="https://img.shields.io/twitter/follow/@chshakir_05?logo=twitter&style=for-the-badge" alt="@chshakir_05" /></a> </p>
 
-- 🔭 I’m currently working on **LMS (LEARNING MANAGEMENT SYSTEM))**
+- 🔭 I’m currently working on **LMS (LEARNING MANAGEMENT SYSTEM)**
 
 - 🌱 I’m currently learning **JAVA-SCRIPT,NODE-JS, REACT, MONGO-DB**
 
