@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chshakir&label=Profile%20views&color=0e75b6&style=flat" alt="chshakir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chshakir" alt="chshakir" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@chshakir_05" target="blank"><img src="https://img.shields.io/twitter/follow/@chshakir_05?logo=twitter&style=for-the-badge" alt="@chshakir_05" /></a> </p>
 
-- 🔭 I’m currently working on **LMS (LEARNING MANAGEMENT SYSTEM)**
+- 🔭 I’m currently working on **LMS (LEARNING MANAGEMENT SYSTEM))**
 
 - 🌱 I’m currently learning **JAVA-SCRIPT,NODE-JS, REACT, MONGO-DB**
 
@@ -31,6 +29,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chshakir"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chshakir" /></a></p><br><br>
+
+<p ><img align="right" style="margin-top:100px;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=chshakir&show_icons=true&locale=en&layout=compact" alt="chshakir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chshakir&show_icons=true&locale=en" alt="chshakir" /></p>
 
