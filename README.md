@@ -1,6 +1,6 @@
-[![MasterHead]((https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg))](https://github.com/chshakir)
+
 <h1 align="center">Hi 👋, I'm Muhmmad Shakir</h1>
-<img align="center" width="300" height="300"  src="https://github.com/chshakir/chshakir/blob/main/pp1.jpg" alt="pp">
+<img align="center" width="300" height="300" src="https://github.com/chshakir/chshakir/blob/main/pp1.jpg" alt="pp">
 <h3 align="center">A Coding Ninja &#129399; </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chshakir&label=Profile%20views&color=0e75b6&style=flat" alt="chshakir" /> </p>
@@ -35,6 +35,6 @@
 
 <p ><img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=chshakir&show_icons=true&locale=en&layout=compact" alt="chshakir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chshakir&show_icons=true&locale=en" alt="chshakir" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=chshakir&show_icons=true&locale=en" alt="chshakir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chshakir&" alt="chshakir" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chshakir&" alt="chshakir" /></p>
