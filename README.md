@@ -1,9 +1,11 @@
+
 <h1 align="center">Hi 👋, I'm Muhmmad Shakir</h1>
+<img align="center" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" alt="pp">
 <h3 align="center">A passionate front end developer from Karachi, Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chshakir&label=Profile%20views&color=0e75b6&style=flat" alt="chshakir" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@chshakir_05" target="blank"><img src="https://img.shields.io/twitter/follow/@chshakir_05?logo=twitter&style=for-the-badge" alt="@chshakir_05" /></a> </p>
+
 
 - 🔭 I’m currently working on **LMS (LEARNING MANAGEMENT SYSTEM))**
 
