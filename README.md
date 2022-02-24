@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhmmad Shakir</h1>
-<img align="center" width="400" src="https://github.com/chshakir/chshakir/blob/main/pp1.jpeg" alt="pp">
+<img align="center" width="300" height="300"  src="https://github.com/chshakir/chshakir/blob/main/pp1.jpeg" alt="pp">
 <h3 align="center">A Coding Ninja &#129399; </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chshakir&label=Profile%20views&color=0e75b6&style=flat" alt="chshakir" /> </p>
